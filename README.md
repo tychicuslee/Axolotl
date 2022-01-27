@@ -1,4 +1,4 @@
-# Axolotl
+# World Travels
 
 Virtual Traveling Journal
 
